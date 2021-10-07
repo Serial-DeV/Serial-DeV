@@ -16,3 +16,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serial-DeV&layout=compact&theme=dark&hide_border=true)
 
+
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=serial-dev&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=serial-dev&theme=react-dark&hide_border=true">
+  </a>
+</p>
+
