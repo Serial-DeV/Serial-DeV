@@ -23,10 +23,18 @@
 
 
 ## 📈 My stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Serial-DeV&theme=monokai&column=8&no-frame=true&no-bg=true">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serial-DeV&layout=compact&theme=dark&hide_border=true">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Serial-DeV&show_icons=true&theme=radical&count_private=true">
+  
 </p>
 <br>
 
