@@ -14,7 +14,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Serial-DeV&show_icons=true&theme=radical) 
 
-My most used languages are : 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serial-DeV&layout=compact&theme=dark&hide_border=true)
 
