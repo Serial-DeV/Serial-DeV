@@ -1,5 +1,7 @@
 ### Hello I'm Serial-Dev !
 
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+
 🖥️ I'm an I&V Engineer ! 🔎
 
 🤓 I like coding in C++, Python and Java ! 
@@ -14,5 +16,5 @@
 
 My most used languages are : 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serial-Dev&layout=compact)](https://github.com/Knackie/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serial-DeV&layout=compact&theme=dark&hide_border=true)
 
