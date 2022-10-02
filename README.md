@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-bay-83.vercel.app/api/top-langs/?username=Serial-DeV&langs_count=20&layout=compact&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats-two-bay-83.vercel.app/api/top-langs/?username=Serial-DeV&hide=mathematica&langs_count=10&layout=compact&theme=dark&hide_border=true">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Serial-DeV&show_icons=true&theme=radical&count_private=true">
   
