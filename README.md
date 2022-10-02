@@ -1,14 +1,14 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello&#160;everyone\n%22);print(%22My&#160;name&#160;is&#160;Serial-DeV\n%22)&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello&#160;everyone\n%22);print(%22My&#160;name&#160;is&#160;Serial-DeV\n%22)&vCenter=true&center=true&size=40&width=1000">
   </a>
 </h1>
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 <br>
 
-## 👌 About me
+# 👌 About me
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 🖥️ I'm a software engineer ! 🔎
 
@@ -22,7 +22,7 @@
 <br><br>
 
 
-## 📈 My stats
+# 📈 My stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -40,7 +40,7 @@
 <br>
 
 
-## 🔥 Contributions
+# 🔥 Contributions
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Serial-DeV&theme=react&background=0d1117&border=666">
